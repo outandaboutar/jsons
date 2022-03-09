@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finish",
+        "description": "Finish of the map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.241734,
+          54.549063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NewhamLoopMap",
+        "description": "Test Map!"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.244416,
+            54.549486
+          ],
+          [
+            -1.241723,
+            54.549616
+          ],
+          [
+            -1.241713,
+            54.549056
+          ],
+          [
+            -1.244684,
+            54.548988
+          ],
+          [
+            -1.244427,
+            54.549486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start",
+        "description": "Start of the map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.241745,
+          54.549616
+        ]
+      }
+    }
+  ]
+}
